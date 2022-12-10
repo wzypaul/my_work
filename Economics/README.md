@@ -1,3 +1,3 @@
 The "Econometrics_Stata_Assignment" is the project I did in Econometrics class in University of Birmingham. I added two more factors - education spending and medical spending of the government - to the Solow model. Then I conducted regression analysis to find out how the two new factors affect economic growth.
 
-The
+The "Quantitative Theory of Money Project" is the project I did in Finance class in Nanjing Audit University. I used regression analysis to find that Quantitative Theory of Money holds in the long run and not necessarily in the short run. And it holds on a time-series manner and not on a cross-section manner, and I give my explanation to it.

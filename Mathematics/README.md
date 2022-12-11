@@ -1,1 +1,1 @@
-The project is an application of analytical geometry to insurance. It solves the problem of how an insured person should allocated his/her weath to buy insurance so that he/she is best off.
+"Analytical Geometry Application and Comment" is an application of analytical geometry to insurance. It solves the problem of how an insured person should allocated his/her weath to buy insurance so that he/she is best off. It also includes the comments given by the professor who graded it.

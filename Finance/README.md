@@ -1,1 +1,1 @@
-
+"Fama French model Matlab Essay" is my graduation thesis about the use of Fama-French model to evaluate the performance of actively managed mutual funds. I used the conditional form of Fama-French model to better capture the variation of market beta so that we get a more reasonable alpha. Then we discuss the performance of the mutual funds of different forms of Fama-French models.

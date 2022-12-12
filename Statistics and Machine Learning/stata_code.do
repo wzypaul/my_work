@@ -3,7 +3,10 @@ Appendix (Stata code)
 *** Advanced Econometrics Assignment Stata Code ***
 ************************************************
 
+*******************
 Part A
+*******************
+
 clear all
 cd ""
 
@@ -72,7 +75,10 @@ hausman lcrmrte FE lcrmrte RE, sigmamore
 /* There is significant difference between RE and FE */
 
 
+*******************
 Part B
+*******************
+
 clear all
 cd ""
 
